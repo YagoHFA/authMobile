@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120749306279",
+    "project_id": "teste-b5e8c",
+    "storage_bucket": "teste-b5e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120749306279:android:a574aff2065a6de8f88682",
+        "android_client_info": {
+          "package_name": "com.example.authetication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIvxPzsul4306JQtlhXSZojoxjcOVo5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120749306279:android:a83fecab48c222dcf88682",
+        "android_client_info": {
+          "package_name": "com.facens.mob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIvxPzsul4306JQtlhXSZojoxjcOVo5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Authetication</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="esqueceu_a_senha">Esqueceu a senha</string>
+    <string name="redefinir_senha">Redefinir Senha</string>
+    <string name="email">Email</string>
+    <string name="digite_o_email_vinculado_sua_conta">Digite o email vinculado à sua conta:</string>
+</resources>
